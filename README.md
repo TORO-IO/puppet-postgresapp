@@ -1,9 +1,9 @@
-# Diffmerge Puppet Module for Boxen
+# PostgresApp Puppet Module for Boxen
 
 ## Usage
 
 ```puppet
-include diffmerge
+include postgresapp
 ```
 
 ## Required Puppet Modules
